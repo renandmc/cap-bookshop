@@ -7,6 +7,6 @@
         "node": "^10"
     },
     "dependencies": {
-        "@sap/approuter": "^13.0.1"
+        "@sap/approuter": "^16.4.2"
     }
 }
